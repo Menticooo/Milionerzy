@@ -1,0 +1,14 @@
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\bin\Debug\net8.0\Milionerzy.exe
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\bin\Debug\net8.0\Milionerzy.deps.json
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\bin\Debug\net8.0\Milionerzy.runtimeconfig.json
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\bin\Debug\net8.0\Milionerzy.dll
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\bin\Debug\net8.0\Milionerzy.pdb
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\obj\Debug\net8.0\Milionerzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\obj\Debug\net8.0\Milionerzy.AssemblyInfoInputs.cache
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\obj\Debug\net8.0\Milionerzy.AssemblyInfo.cs
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\obj\Debug\net8.0\Milionerzy.csproj.CoreCompileInputs.cache
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\obj\Debug\net8.0\Milionerzy.dll
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\obj\Debug\net8.0\refint\Milionerzy.dll
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\obj\Debug\net8.0\Milionerzy.pdb
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\obj\Debug\net8.0\Milionerzy.genruntimeconfig.cache
+C:\Users\Stachu Jones\source\repos\Milionerzy\Milionerzy\obj\Debug\net8.0\ref\Milionerzy.dll
