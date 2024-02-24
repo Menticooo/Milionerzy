@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stachu Jones\\source\\repos\\Milionerzy\\Milionerzy\\Milionerzy.csproj": {}
+    "C:\\Users\\Stachu Jones\\Desktop\\Milionerzy\\Milionerzy\\Milionerzy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stachu Jones\\source\\repos\\Milionerzy\\Milionerzy\\Milionerzy.csproj": {
+    "C:\\Users\\Stachu Jones\\Desktop\\Milionerzy\\Milionerzy\\Milionerzy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stachu Jones\\source\\repos\\Milionerzy\\Milionerzy\\Milionerzy.csproj",
+        "projectUniqueName": "C:\\Users\\Stachu Jones\\Desktop\\Milionerzy\\Milionerzy\\Milionerzy.csproj",
         "projectName": "Milionerzy",
-        "projectPath": "C:\\Users\\Stachu Jones\\source\\repos\\Milionerzy\\Milionerzy\\Milionerzy.csproj",
+        "projectPath": "C:\\Users\\Stachu Jones\\Desktop\\Milionerzy\\Milionerzy\\Milionerzy.csproj",
         "packagesPath": "C:\\Users\\Stachu Jones\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stachu Jones\\source\\repos\\Milionerzy\\Milionerzy\\obj\\",
+        "outputPath": "C:\\Users\\Stachu Jones\\Desktop\\Milionerzy\\Milionerzy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Stachu Jones\\source\\repos\\Milionerzy\\",
+  "WorkspaceRootPath": "C:\\Users\\Stachu Jones\\Desktop\\Milionerzy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B561A59E-C1B8-469B-B965-49AC1864CBFA}|Milionerzy\\Milionerzy.csproj|c:\\users\\stachu jones\\source\\repos\\milionerzy\\milionerzy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B561A59E-C1B8-469B-B965-49AC1864CBFA}|Milionerzy\\Milionerzy.csproj|c:\\users\\stachu jones\\desktop\\milionerzy\\milionerzy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B561A59E-C1B8-469B-B965-49AC1864CBFA}|Milionerzy\\Milionerzy.csproj|solutionrelative:milionerzy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stachu Jones\\source\\repos\\Milionerzy\\Milionerzy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stachu Jones\\Desktop\\Milionerzy\\Milionerzy\\Program.cs",
               "RelativeDocumentMoniker": "Milionerzy\\Program.cs",
-              "ToolTip": "C:\\Users\\Stachu Jones\\source\\repos\\Milionerzy\\Milionerzy\\Program.cs",
+              "ToolTip": "C:\\Users\\Stachu Jones\\Desktop\\Milionerzy\\Milionerzy\\Program.cs",
               "RelativeToolTip": "Milionerzy\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T21:28:22.218Z",
               "EditorCaption": ""

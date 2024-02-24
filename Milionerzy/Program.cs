@@ -74,7 +74,7 @@ namespace Milionerzy
                 new Question("Ile wynosi 2 do potęgi 10?", "a", new List<string>{"a) 1024", "b) 512", "c) 256", "d) 2048"}),
                 new Question("Które państwo jest najmniejszym na świecie?", "a", new List<string>{"a) Watikan", "b) Monako", "c) San Marino", "d) Liechtenstein"}),
                 new Question("Jak nazywa się najwyższy szczyt w Afryce?", "a", new List<string>{"a) Kilimandżaro", "b) Everest", "c) K2", "d) Aconcagua"}),
-                new Question("Która z planet Układu Słonecznego jest największa?", "a", new List<string>{"a) Jowisz", "b) Saturn", "c) Uran", "d) Neptun"}),
+                new Question("Która z następujących planet jest największa?", "a", new List<string>{"a) Jowisz", "b) Saturn", "c) Uran", "d) Neptun"}),
                 new Question("Kto jest autorem serii książek o Harrym Potterze?", "a", new List<string>{"a) J.K. Rowling", "b) Stephen King", "c) George R.R. Martin", "d) J.R.R. Tolkien"}),
                 new Question("Która z następujących planet jest gazowym olbrzymem?", "a", new List<string>{"a) Neptun", "b) Mars", "c) Wenus", "d) Merkury"}),
                 new Question("Kto jest autorem 'Opowieści z Narnii'?", "a", new List<string>{"a) C.S. Lewis", "b) J.R.R. Tolkien", "c) J.K. Rowling", "d) George Orwell"}),
@@ -115,6 +115,7 @@ namespace Milionerzy
             if (choice.ToUpper() == "T")
             {
                 Console.Clear(); // Czyszczenie ekranu konsoli
+                moneyWon = 0; // Resetowanie wygranej kwoty
                 Start();
             }
             else
